@@ -1,5 +1,7 @@
 TP 1 : Insertion et Récupération des Données avec JDBC
+
 Objectif
+
 Ce projet a pour but de maîtriser l'insertion et la récupération de données dans une base de données MySQL en utilisant Java. Il implémente les API de base de JDBC pour gérer les connexions, les requêtes (statements) et les résultats (result sets), tout en couvrant la gestion des erreurs et les différences entre les packages java.sql et javax.sql.
 
 Prérequis
