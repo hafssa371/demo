@@ -47,7 +47,6 @@ Exemple de code pour la récupération :
 ![image](https://github.com/user-attachments/assets/768191e5-1270-41b6-9b7c-2c729d70350e)
 ![image](https://github.com/user-attachments/assets/1b2288b1-c07d-4937-a1cb-a4c5729cfe1d)
 ![image](https://github.com/user-attachments/assets/284c6ebd-24bf-4447-a10f-9ed3a12f114e)
-![image](https://github.com/user-attachments/assets/693bcd70-fc68-425d-8583-9e90b649d4ed)
 
 Conclusion
 
